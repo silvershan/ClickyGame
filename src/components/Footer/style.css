@@ -1,0 +1,17 @@
+.footer{
+	background-color: #490549;
+	width: 100%;
+	position: relative;
+}
+
+img.react {
+	height: 30px;
+	width: 30px;
+}
+
+.footer p{
+	color: white;
+	text-align: center;
+	padding: 10px 0;
+	font-size: 15px;
+}
